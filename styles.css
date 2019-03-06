@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    font-family: 'Srisakdi', cursive;
+    background-image: url("https://78.media.tumblr.com/c6bed91ccffc8d7bf23f48d4be79063a/tumblr_ohksoo12Yw1ulzetqo1_500.gif");
+     background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.yellow{
+    width: 150px;
+}
+.brown{
+    width: 150px;
+}
+button {
+    width: 200px;   
+    height: 50px;
+    font-size: 20px;
+    background: #b9d3ee;
+    color: white;
+    border-radius: 8px;
+    border: solid white 3px;
+    font-family: 'Lobster Two', cursive;
+    font-size: 20px;
+}
+h1{ 
+    text-shadow: 4px 2px #b9d3ee;
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 25px;
+}
+input{
+    width:280px;
+    height: 35px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 23px;
+}
+button:hover{
+    background-color: #a2bff4;
+}
+.jieuntak{
+    display: none;
+}
+.goblin{
+    display: none;
+}
+.grimreaper{
+    display: none;
+}
+.sunny{
+    display: none;
+}
+.error{
+    display: none;
+    width: 300px;
+}
